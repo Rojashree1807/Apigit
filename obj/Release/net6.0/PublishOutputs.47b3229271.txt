@@ -1,0 +1,11 @@
+E:\Phase3 Assignment\Ass2\WebApiOne\WebApiOne\obj\Release\net6.0\PubTmp\Out\WebApiOne.exe
+E:\Phase3 Assignment\Ass2\WebApiOne\WebApiOne\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+E:\Phase3 Assignment\Ass2\WebApiOne\WebApiOne\obj\Release\net6.0\PubTmp\Out\appsettings.json
+E:\Phase3 Assignment\Ass2\WebApiOne\WebApiOne\obj\Release\net6.0\PubTmp\Out\WebApiOne.dll
+E:\Phase3 Assignment\Ass2\WebApiOne\WebApiOne\obj\Release\net6.0\PubTmp\Out\WebApiOne.deps.json
+E:\Phase3 Assignment\Ass2\WebApiOne\WebApiOne\obj\Release\net6.0\PubTmp\Out\WebApiOne.runtimeconfig.json
+E:\Phase3 Assignment\Ass2\WebApiOne\WebApiOne\obj\Release\net6.0\PubTmp\Out\WebApiOne.pdb
+E:\Phase3 Assignment\Ass2\WebApiOne\WebApiOne\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+E:\Phase3 Assignment\Ass2\WebApiOne\WebApiOne\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+E:\Phase3 Assignment\Ass2\WebApiOne\WebApiOne\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Phase3 Assignment\Ass2\WebApiOne\WebApiOne\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
